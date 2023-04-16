@@ -1,3 +1,3 @@
 # python-snake
 
-Simple Snake Game created in python. requires pygame to run
+i created this very simple snake game because i wanted to have a base on which i could train an AI to play snake.
